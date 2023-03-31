@@ -1,0 +1,17 @@
+{
+  "name": "challenge-ignite-nodejs-01-fundamentos-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Desafio do módulo Fundamentos do Node.js",
+  "main": "src/server.js",
+  "repository": "https://github.com/Robson16/challenge-ignite-nodejs-01-fundamentos-nodejs",
+  "author": "Robson H. Rodrigues <robhenrod@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  }
+}
